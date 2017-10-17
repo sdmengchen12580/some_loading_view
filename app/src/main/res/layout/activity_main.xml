@@ -1,0 +1,124 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/mybutton_show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="显示loading的加载动画" />
+
+    <Button
+        android:layout_weight="1"
+        android:id="@+id/show_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="1" />
+
+    <Button
+        android:layout_weight="1"
+        android:id="@+id/show_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="2" />
+
+    <Button
+        android:layout_weight="1"
+        android:id="@+id/show_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="3" />
+
+    <Button
+        android:layout_weight="1"
+        android:id="@+id/show_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="4" />
+
+    <Button
+        android:layout_weight="1"
+        android:id="@+id/show_5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="5" />
+
+    <Button
+        android:layout_weight="1"
+        android:id="@+id/show_6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="6" />
+
+    <Button
+        android:layout_weight="1"
+        android:id="@+id/show_7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="7" />
+
+    <Button
+        android:layout_weight="1"
+        android:id="@+id/show_8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="8" />
+
+    <Button
+        android:layout_weight="1"
+        android:id="@+id/show_9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="9" />
+
+    <Button
+        android:layout_weight="1"
+        android:id="@+id/show_10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="10" />
+    <Button
+        android:layout_weight="1"
+        android:id="@+id/show_11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="11" />
+    <Button
+        android:layout_weight="1"
+        android:id="@+id/show_12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="12" />
+    <Button
+        android:layout_weight="1"
+        android:id="@+id/show_13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="13" />
+    <Button
+        android:layout_weight="1"
+        android:id="@+id/show_14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="14" />
+
+</LinearLayout>
